@@ -22,7 +22,7 @@ allprojects {
   
   dependencies {
   
-	        implementation 'com.github.codeplayon:ParticleSmasherLibrary:Tag'
+	        implementation 'com.github.codeplayon:ParticleSmasherLibrary:v1.0.0'
 	}
   
   
